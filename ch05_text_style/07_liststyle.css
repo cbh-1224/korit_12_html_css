@@ -1,0 +1,13 @@
+ul {
+  list-style-type: circle;
+}
+
+/* li 별로 지정하는 것도 가능 */
+ul > li:first-child {
+  list-style-type: "👍";
+}
+
+ol {
+  /* list-style: decimal-leading-zero; */
+  list-style: lower-greek;
+}
