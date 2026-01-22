@@ -1,0 +1,27 @@
+/* article {}
+태그명으로 css 지정시 정확하게
+어디에 위치하는지 모른다.
+article aside {}
+article aside figure {}
+article div header {}
+article ul li {}
+article div li.special {} */
+
+/* .card {}
+.card .thumb {}
+.card .thumb .image {}
+.card .body .title {}
+.card .body .list {}
+.card .body .list .list-item {}
+.card .body .list .list-item.special {} */
+
+.card {}
+.card__thunmb {}
+.card__image {}
+.card__body {}
+.card__title {}
+.card__list {}
+.card__list-item {}
+.card__list-item--speical {}
+
+
